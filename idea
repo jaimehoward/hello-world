@@ -1,0 +1,13 @@
+Héroes de Pandora: La idea de este juego es hacer un run and gun 2D (videojuegos en los que el jugador controla un personaje que dispara contra hordas de enemigos que van apareciendo en pantalla, algunos ejemplos pueden ser Metal Slug, Contra, entre otros) y usar una vista Side-Scroller View (No confundirlo con la visión Top View donde no se le da un efecto de profundidad). Algunos niveles harían que el fondo avance sin necesidad de que los jugadores lleguen al borde de la pantalla y así darle un nivel mayor de dificultad.
+Lo ”innovador” que tendría el juego sería un modo multijugador de 3 jugadores los cuales tendrán un rol cada uno, a diferencia de muchos de los juegos de esta categoría que llegan como máximo a 2 jugadores y tienen las mismas estadísticas. 
+El juego trata de 3 héroes que intentan salvar a Pandora (un reino) de los 7 pecados capitales personificados en seres malignos y sus secuaces. En esta aventura nuestros héroes podrán recibir la ayuda de los ciudadanos de Pandora para proporcionarles mejores armas, armaduras o estéticos (como un lindo gorro o un parche y una pata de palo).
+Los 3 jugadores no tendrían la misma jugabilidad si no que cada uno tendría un rol, beneficio y desventaja distinta, la jugabilidad de cada personaje serían: 
+Uno de los jugadores llevaría un arma la cual dispararía muy rápido pero hace muy poco daño y no tiene muy buena precisión a largas distancias que le vendría muy bien para multitudes de enemigos pequeños pero le complicaría contra enemigos grandes o enemigos a largas distancias.
+Otro llevaría una escopeta o arma cuerpo a cuerpo que le vendría bien contra enemigos grandes pero se complica contra multitudes de enemigos y enemigos a largas distancias.
+Otro tendría un rifle de francotirador el cual tendría mucho daño y precisión pero mucho tiempo entre disparos.
+Ejemplo de vista Side-Scroller View:
+Integrantes: 	Gonzalo Escobar
+Santiago Martinez
+Lucas Mendez
+Juan Perez de Barradas
+Tomás Rodriguez
